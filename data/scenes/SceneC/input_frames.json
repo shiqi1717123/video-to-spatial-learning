@@ -1,0 +1,1961 @@
+{
+  "source_video_clip_seconds": [
+    14,
+    188
+  ],
+  "frames": [
+    {
+      "selection_order": "1",
+      "selected_filename": "frame_000001.png",
+      "sample_index": "6",
+      "timestamp_seconds": "15.0",
+      "source_frame_index": "450"
+    },
+    {
+      "selection_order": "2",
+      "selected_filename": "frame_000002.png",
+      "sample_index": "10",
+      "timestamp_seconds": "15.8",
+      "source_frame_index": "474"
+    },
+    {
+      "selection_order": "3",
+      "selected_filename": "frame_000003.png",
+      "sample_index": "14",
+      "timestamp_seconds": "16.6",
+      "source_frame_index": "498"
+    },
+    {
+      "selection_order": "4",
+      "selected_filename": "frame_000004.png",
+      "sample_index": "18",
+      "timestamp_seconds": "17.4",
+      "source_frame_index": "521"
+    },
+    {
+      "selection_order": "5",
+      "selected_filename": "frame_000005.png",
+      "sample_index": "22",
+      "timestamp_seconds": "18.2",
+      "source_frame_index": "545"
+    },
+    {
+      "selection_order": "6",
+      "selected_filename": "frame_000006.png",
+      "sample_index": "26",
+      "timestamp_seconds": "19.0",
+      "source_frame_index": "569"
+    },
+    {
+      "selection_order": "7",
+      "selected_filename": "frame_000007.png",
+      "sample_index": "30",
+      "timestamp_seconds": "19.8",
+      "source_frame_index": "593"
+    },
+    {
+      "selection_order": "8",
+      "selected_filename": "frame_000008.png",
+      "sample_index": "34",
+      "timestamp_seconds": "20.6",
+      "source_frame_index": "617"
+    },
+    {
+      "selection_order": "9",
+      "selected_filename": "frame_000009.png",
+      "sample_index": "37",
+      "timestamp_seconds": "21.2",
+      "source_frame_index": "635"
+    },
+    {
+      "selection_order": "10",
+      "selected_filename": "frame_000010.png",
+      "sample_index": "40",
+      "timestamp_seconds": "21.8",
+      "source_frame_index": "653"
+    },
+    {
+      "selection_order": "11",
+      "selected_filename": "frame_000011.png",
+      "sample_index": "42",
+      "timestamp_seconds": "22.2",
+      "source_frame_index": "665"
+    },
+    {
+      "selection_order": "12",
+      "selected_filename": "frame_000012.png",
+      "sample_index": "44",
+      "timestamp_seconds": "22.6",
+      "source_frame_index": "677"
+    },
+    {
+      "selection_order": "13",
+      "selected_filename": "frame_000013.png",
+      "sample_index": "46",
+      "timestamp_seconds": "23.0",
+      "source_frame_index": "689"
+    },
+    {
+      "selection_order": "14",
+      "selected_filename": "frame_000014.png",
+      "sample_index": "48",
+      "timestamp_seconds": "23.4",
+      "source_frame_index": "701"
+    },
+    {
+      "selection_order": "15",
+      "selected_filename": "frame_000015.png",
+      "sample_index": "50",
+      "timestamp_seconds": "23.8",
+      "source_frame_index": "713"
+    },
+    {
+      "selection_order": "16",
+      "selected_filename": "frame_000016.png",
+      "sample_index": "53",
+      "timestamp_seconds": "24.4",
+      "source_frame_index": "731"
+    },
+    {
+      "selection_order": "17",
+      "selected_filename": "frame_000017.png",
+      "sample_index": "56",
+      "timestamp_seconds": "25.0",
+      "source_frame_index": "749"
+    },
+    {
+      "selection_order": "18",
+      "selected_filename": "frame_000018.png",
+      "sample_index": "60",
+      "timestamp_seconds": "25.8",
+      "source_frame_index": "773"
+    },
+    {
+      "selection_order": "19",
+      "selected_filename": "frame_000019.png",
+      "sample_index": "64",
+      "timestamp_seconds": "26.6",
+      "source_frame_index": "797"
+    },
+    {
+      "selection_order": "20",
+      "selected_filename": "frame_000020.png",
+      "sample_index": "69",
+      "timestamp_seconds": "27.6",
+      "source_frame_index": "827"
+    },
+    {
+      "selection_order": "21",
+      "selected_filename": "frame_000021.png",
+      "sample_index": "73",
+      "timestamp_seconds": "28.4",
+      "source_frame_index": "851"
+    },
+    {
+      "selection_order": "22",
+      "selected_filename": "frame_000022.png",
+      "sample_index": "76",
+      "timestamp_seconds": "29.0",
+      "source_frame_index": "869"
+    },
+    {
+      "selection_order": "23",
+      "selected_filename": "frame_000023.png",
+      "sample_index": "81",
+      "timestamp_seconds": "30.0",
+      "source_frame_index": "899"
+    },
+    {
+      "selection_order": "24",
+      "selected_filename": "frame_000024.png",
+      "sample_index": "83",
+      "timestamp_seconds": "30.4",
+      "source_frame_index": "911"
+    },
+    {
+      "selection_order": "25",
+      "selected_filename": "frame_000025.png",
+      "sample_index": "85",
+      "timestamp_seconds": "30.8",
+      "source_frame_index": "923"
+    },
+    {
+      "selection_order": "26",
+      "selected_filename": "frame_000026.png",
+      "sample_index": "87",
+      "timestamp_seconds": "31.2",
+      "source_frame_index": "935"
+    },
+    {
+      "selection_order": "27",
+      "selected_filename": "frame_000027.png",
+      "sample_index": "89",
+      "timestamp_seconds": "31.6",
+      "source_frame_index": "947"
+    },
+    {
+      "selection_order": "28",
+      "selected_filename": "frame_000028.png",
+      "sample_index": "92",
+      "timestamp_seconds": "32.2",
+      "source_frame_index": "965"
+    },
+    {
+      "selection_order": "29",
+      "selected_filename": "frame_000029.png",
+      "sample_index": "95",
+      "timestamp_seconds": "32.8",
+      "source_frame_index": "983"
+    },
+    {
+      "selection_order": "30",
+      "selected_filename": "frame_000030.png",
+      "sample_index": "99",
+      "timestamp_seconds": "33.6",
+      "source_frame_index": "1007"
+    },
+    {
+      "selection_order": "31",
+      "selected_filename": "frame_000031.png",
+      "sample_index": "103",
+      "timestamp_seconds": "34.4",
+      "source_frame_index": "1031"
+    },
+    {
+      "selection_order": "32",
+      "selected_filename": "frame_000032.png",
+      "sample_index": "106",
+      "timestamp_seconds": "35.0",
+      "source_frame_index": "1049"
+    },
+    {
+      "selection_order": "33",
+      "selected_filename": "frame_000033.png",
+      "sample_index": "109",
+      "timestamp_seconds": "35.6",
+      "source_frame_index": "1067"
+    },
+    {
+      "selection_order": "34",
+      "selected_filename": "frame_000034.png",
+      "sample_index": "112",
+      "timestamp_seconds": "36.2",
+      "source_frame_index": "1085"
+    },
+    {
+      "selection_order": "35",
+      "selected_filename": "frame_000035.png",
+      "sample_index": "115",
+      "timestamp_seconds": "36.8",
+      "source_frame_index": "1103"
+    },
+    {
+      "selection_order": "36",
+      "selected_filename": "frame_000036.png",
+      "sample_index": "119",
+      "timestamp_seconds": "37.6",
+      "source_frame_index": "1127"
+    },
+    {
+      "selection_order": "37",
+      "selected_filename": "frame_000037.png",
+      "sample_index": "122",
+      "timestamp_seconds": "38.2",
+      "source_frame_index": "1145"
+    },
+    {
+      "selection_order": "38",
+      "selected_filename": "frame_000038.png",
+      "sample_index": "125",
+      "timestamp_seconds": "38.8",
+      "source_frame_index": "1163"
+    },
+    {
+      "selection_order": "39",
+      "selected_filename": "frame_000039.png",
+      "sample_index": "128",
+      "timestamp_seconds": "39.4",
+      "source_frame_index": "1181"
+    },
+    {
+      "selection_order": "40",
+      "selected_filename": "frame_000040.png",
+      "sample_index": "131",
+      "timestamp_seconds": "40.0",
+      "source_frame_index": "1199"
+    },
+    {
+      "selection_order": "41",
+      "selected_filename": "frame_000041.png",
+      "sample_index": "134",
+      "timestamp_seconds": "40.6",
+      "source_frame_index": "1217"
+    },
+    {
+      "selection_order": "42",
+      "selected_filename": "frame_000042.png",
+      "sample_index": "138",
+      "timestamp_seconds": "41.4",
+      "source_frame_index": "1241"
+    },
+    {
+      "selection_order": "43",
+      "selected_filename": "frame_000043.png",
+      "sample_index": "143",
+      "timestamp_seconds": "42.4",
+      "source_frame_index": "1271"
+    },
+    {
+      "selection_order": "44",
+      "selected_filename": "frame_000044.png",
+      "sample_index": "146",
+      "timestamp_seconds": "43.0",
+      "source_frame_index": "1289"
+    },
+    {
+      "selection_order": "45",
+      "selected_filename": "frame_000045.png",
+      "sample_index": "148",
+      "timestamp_seconds": "43.4",
+      "source_frame_index": "1301"
+    },
+    {
+      "selection_order": "46",
+      "selected_filename": "frame_000046.png",
+      "sample_index": "150",
+      "timestamp_seconds": "43.8",
+      "source_frame_index": "1313"
+    },
+    {
+      "selection_order": "47",
+      "selected_filename": "frame_000047.png",
+      "sample_index": "152",
+      "timestamp_seconds": "44.2",
+      "source_frame_index": "1325"
+    },
+    {
+      "selection_order": "48",
+      "selected_filename": "frame_000048.png",
+      "sample_index": "154",
+      "timestamp_seconds": "44.6",
+      "source_frame_index": "1337"
+    },
+    {
+      "selection_order": "49",
+      "selected_filename": "frame_000049.png",
+      "sample_index": "156",
+      "timestamp_seconds": "45.0",
+      "source_frame_index": "1349"
+    },
+    {
+      "selection_order": "50",
+      "selected_filename": "frame_000050.png",
+      "sample_index": "158",
+      "timestamp_seconds": "45.4",
+      "source_frame_index": "1361"
+    },
+    {
+      "selection_order": "51",
+      "selected_filename": "frame_000051.png",
+      "sample_index": "160",
+      "timestamp_seconds": "45.8",
+      "source_frame_index": "1373"
+    },
+    {
+      "selection_order": "52",
+      "selected_filename": "frame_000052.png",
+      "sample_index": "162",
+      "timestamp_seconds": "46.2",
+      "source_frame_index": "1385"
+    },
+    {
+      "selection_order": "53",
+      "selected_filename": "frame_000053.png",
+      "sample_index": "165",
+      "timestamp_seconds": "46.8",
+      "source_frame_index": "1403"
+    },
+    {
+      "selection_order": "54",
+      "selected_filename": "frame_000054.png",
+      "sample_index": "168",
+      "timestamp_seconds": "47.4",
+      "source_frame_index": "1421"
+    },
+    {
+      "selection_order": "55",
+      "selected_filename": "frame_000055.png",
+      "sample_index": "171",
+      "timestamp_seconds": "48.0",
+      "source_frame_index": "1439"
+    },
+    {
+      "selection_order": "56",
+      "selected_filename": "frame_000056.png",
+      "sample_index": "174",
+      "timestamp_seconds": "48.6",
+      "source_frame_index": "1457"
+    },
+    {
+      "selection_order": "57",
+      "selected_filename": "frame_000057.png",
+      "sample_index": "178",
+      "timestamp_seconds": "49.4",
+      "source_frame_index": "1481"
+    },
+    {
+      "selection_order": "58",
+      "selected_filename": "frame_000058.png",
+      "sample_index": "182",
+      "timestamp_seconds": "50.2",
+      "source_frame_index": "1504"
+    },
+    {
+      "selection_order": "59",
+      "selected_filename": "frame_000059.png",
+      "sample_index": "185",
+      "timestamp_seconds": "50.8",
+      "source_frame_index": "1522"
+    },
+    {
+      "selection_order": "60",
+      "selected_filename": "frame_000060.png",
+      "sample_index": "188",
+      "timestamp_seconds": "51.4",
+      "source_frame_index": "1540"
+    },
+    {
+      "selection_order": "61",
+      "selected_filename": "frame_000061.png",
+      "sample_index": "191",
+      "timestamp_seconds": "52.0",
+      "source_frame_index": "1558"
+    },
+    {
+      "selection_order": "62",
+      "selected_filename": "frame_000062.png",
+      "sample_index": "194",
+      "timestamp_seconds": "52.6",
+      "source_frame_index": "1576"
+    },
+    {
+      "selection_order": "63",
+      "selected_filename": "frame_000063.png",
+      "sample_index": "197",
+      "timestamp_seconds": "53.2",
+      "source_frame_index": "1594"
+    },
+    {
+      "selection_order": "64",
+      "selected_filename": "frame_000064.png",
+      "sample_index": "200",
+      "timestamp_seconds": "53.8",
+      "source_frame_index": "1612"
+    },
+    {
+      "selection_order": "65",
+      "selected_filename": "frame_000065.png",
+      "sample_index": "203",
+      "timestamp_seconds": "54.4",
+      "source_frame_index": "1630"
+    },
+    {
+      "selection_order": "66",
+      "selected_filename": "frame_000066.png",
+      "sample_index": "206",
+      "timestamp_seconds": "55.0",
+      "source_frame_index": "1648"
+    },
+    {
+      "selection_order": "67",
+      "selected_filename": "frame_000067.png",
+      "sample_index": "209",
+      "timestamp_seconds": "55.6",
+      "source_frame_index": "1666"
+    },
+    {
+      "selection_order": "68",
+      "selected_filename": "frame_000068.png",
+      "sample_index": "213",
+      "timestamp_seconds": "56.4",
+      "source_frame_index": "1690"
+    },
+    {
+      "selection_order": "69",
+      "selected_filename": "frame_000069.png",
+      "sample_index": "217",
+      "timestamp_seconds": "57.2",
+      "source_frame_index": "1714"
+    },
+    {
+      "selection_order": "70",
+      "selected_filename": "frame_000070.png",
+      "sample_index": "220",
+      "timestamp_seconds": "57.8",
+      "source_frame_index": "1732"
+    },
+    {
+      "selection_order": "71",
+      "selected_filename": "frame_000071.png",
+      "sample_index": "223",
+      "timestamp_seconds": "58.4",
+      "source_frame_index": "1750"
+    },
+    {
+      "selection_order": "72",
+      "selected_filename": "frame_000072.png",
+      "sample_index": "226",
+      "timestamp_seconds": "59.0",
+      "source_frame_index": "1768"
+    },
+    {
+      "selection_order": "73",
+      "selected_filename": "frame_000073.png",
+      "sample_index": "228",
+      "timestamp_seconds": "59.4",
+      "source_frame_index": "1780"
+    },
+    {
+      "selection_order": "74",
+      "selected_filename": "frame_000074.png",
+      "sample_index": "230",
+      "timestamp_seconds": "59.8",
+      "source_frame_index": "1792"
+    },
+    {
+      "selection_order": "75",
+      "selected_filename": "frame_000075.png",
+      "sample_index": "232",
+      "timestamp_seconds": "60.2",
+      "source_frame_index": "1804"
+    },
+    {
+      "selection_order": "76",
+      "selected_filename": "frame_000076.png",
+      "sample_index": "234",
+      "timestamp_seconds": "60.6",
+      "source_frame_index": "1816"
+    },
+    {
+      "selection_order": "77",
+      "selected_filename": "frame_000077.png",
+      "sample_index": "236",
+      "timestamp_seconds": "61.0",
+      "source_frame_index": "1828"
+    },
+    {
+      "selection_order": "78",
+      "selected_filename": "frame_000078.png",
+      "sample_index": "238",
+      "timestamp_seconds": "61.4",
+      "source_frame_index": "1840"
+    },
+    {
+      "selection_order": "79",
+      "selected_filename": "frame_000079.png",
+      "sample_index": "240",
+      "timestamp_seconds": "61.8",
+      "source_frame_index": "1852"
+    },
+    {
+      "selection_order": "80",
+      "selected_filename": "frame_000080.png",
+      "sample_index": "243",
+      "timestamp_seconds": "62.4",
+      "source_frame_index": "1870"
+    },
+    {
+      "selection_order": "81",
+      "selected_filename": "frame_000081.png",
+      "sample_index": "246",
+      "timestamp_seconds": "63.0",
+      "source_frame_index": "1888"
+    },
+    {
+      "selection_order": "82",
+      "selected_filename": "frame_000082.png",
+      "sample_index": "248",
+      "timestamp_seconds": "63.4",
+      "source_frame_index": "1900"
+    },
+    {
+      "selection_order": "83",
+      "selected_filename": "frame_000083.png",
+      "sample_index": "250",
+      "timestamp_seconds": "63.8",
+      "source_frame_index": "1912"
+    },
+    {
+      "selection_order": "84",
+      "selected_filename": "frame_000084.png",
+      "sample_index": "252",
+      "timestamp_seconds": "64.2",
+      "source_frame_index": "1924"
+    },
+    {
+      "selection_order": "85",
+      "selected_filename": "frame_000085.png",
+      "sample_index": "254",
+      "timestamp_seconds": "64.6",
+      "source_frame_index": "1936"
+    },
+    {
+      "selection_order": "86",
+      "selected_filename": "frame_000086.png",
+      "sample_index": "256",
+      "timestamp_seconds": "65.0",
+      "source_frame_index": "1948"
+    },
+    {
+      "selection_order": "87",
+      "selected_filename": "frame_000087.png",
+      "sample_index": "258",
+      "timestamp_seconds": "65.4",
+      "source_frame_index": "1960"
+    },
+    {
+      "selection_order": "88",
+      "selected_filename": "frame_000088.png",
+      "sample_index": "260",
+      "timestamp_seconds": "65.8",
+      "source_frame_index": "1972"
+    },
+    {
+      "selection_order": "89",
+      "selected_filename": "frame_000089.png",
+      "sample_index": "262",
+      "timestamp_seconds": "66.2",
+      "source_frame_index": "1984"
+    },
+    {
+      "selection_order": "90",
+      "selected_filename": "frame_000090.png",
+      "sample_index": "264",
+      "timestamp_seconds": "66.6",
+      "source_frame_index": "1996"
+    },
+    {
+      "selection_order": "91",
+      "selected_filename": "frame_000091.png",
+      "sample_index": "267",
+      "timestamp_seconds": "67.2",
+      "source_frame_index": "2014"
+    },
+    {
+      "selection_order": "92",
+      "selected_filename": "frame_000092.png",
+      "sample_index": "270",
+      "timestamp_seconds": "67.8",
+      "source_frame_index": "2032"
+    },
+    {
+      "selection_order": "93",
+      "selected_filename": "frame_000093.png",
+      "sample_index": "274",
+      "timestamp_seconds": "68.6",
+      "source_frame_index": "2056"
+    },
+    {
+      "selection_order": "94",
+      "selected_filename": "frame_000094.png",
+      "sample_index": "278",
+      "timestamp_seconds": "69.4",
+      "source_frame_index": "2080"
+    },
+    {
+      "selection_order": "95",
+      "selected_filename": "frame_000095.png",
+      "sample_index": "282",
+      "timestamp_seconds": "70.2",
+      "source_frame_index": "2104"
+    },
+    {
+      "selection_order": "96",
+      "selected_filename": "frame_000096.png",
+      "sample_index": "286",
+      "timestamp_seconds": "71.0",
+      "source_frame_index": "2128"
+    },
+    {
+      "selection_order": "97",
+      "selected_filename": "frame_000097.png",
+      "sample_index": "289",
+      "timestamp_seconds": "71.6",
+      "source_frame_index": "2146"
+    },
+    {
+      "selection_order": "98",
+      "selected_filename": "frame_000098.png",
+      "sample_index": "294",
+      "timestamp_seconds": "72.6",
+      "source_frame_index": "2176"
+    },
+    {
+      "selection_order": "99",
+      "selected_filename": "frame_000099.png",
+      "sample_index": "299",
+      "timestamp_seconds": "73.6",
+      "source_frame_index": "2206"
+    },
+    {
+      "selection_order": "100",
+      "selected_filename": "frame_000100.png",
+      "sample_index": "301",
+      "timestamp_seconds": "74.0",
+      "source_frame_index": "2218"
+    },
+    {
+      "selection_order": "101",
+      "selected_filename": "frame_000101.png",
+      "sample_index": "303",
+      "timestamp_seconds": "74.4",
+      "source_frame_index": "2230"
+    },
+    {
+      "selection_order": "102",
+      "selected_filename": "frame_000102.png",
+      "sample_index": "305",
+      "timestamp_seconds": "74.8",
+      "source_frame_index": "2242"
+    },
+    {
+      "selection_order": "103",
+      "selected_filename": "frame_000103.png",
+      "sample_index": "307",
+      "timestamp_seconds": "75.2",
+      "source_frame_index": "2254"
+    },
+    {
+      "selection_order": "104",
+      "selected_filename": "frame_000104.png",
+      "sample_index": "309",
+      "timestamp_seconds": "75.6",
+      "source_frame_index": "2266"
+    },
+    {
+      "selection_order": "105",
+      "selected_filename": "frame_000105.png",
+      "sample_index": "311",
+      "timestamp_seconds": "76.0",
+      "source_frame_index": "2278"
+    },
+    {
+      "selection_order": "106",
+      "selected_filename": "frame_000106.png",
+      "sample_index": "313",
+      "timestamp_seconds": "76.4",
+      "source_frame_index": "2290"
+    },
+    {
+      "selection_order": "107",
+      "selected_filename": "frame_000107.png",
+      "sample_index": "316",
+      "timestamp_seconds": "77.0",
+      "source_frame_index": "2308"
+    },
+    {
+      "selection_order": "108",
+      "selected_filename": "frame_000108.png",
+      "sample_index": "319",
+      "timestamp_seconds": "77.6",
+      "source_frame_index": "2326"
+    },
+    {
+      "selection_order": "109",
+      "selected_filename": "frame_000109.png",
+      "sample_index": "322",
+      "timestamp_seconds": "78.2",
+      "source_frame_index": "2344"
+    },
+    {
+      "selection_order": "110",
+      "selected_filename": "frame_000110.png",
+      "sample_index": "325",
+      "timestamp_seconds": "78.8",
+      "source_frame_index": "2362"
+    },
+    {
+      "selection_order": "111",
+      "selected_filename": "frame_000111.png",
+      "sample_index": "329",
+      "timestamp_seconds": "79.6",
+      "source_frame_index": "2386"
+    },
+    {
+      "selection_order": "112",
+      "selected_filename": "frame_000112.png",
+      "sample_index": "333",
+      "timestamp_seconds": "80.4",
+      "source_frame_index": "2410"
+    },
+    {
+      "selection_order": "113",
+      "selected_filename": "frame_000113.png",
+      "sample_index": "337",
+      "timestamp_seconds": "81.2",
+      "source_frame_index": "2434"
+    },
+    {
+      "selection_order": "114",
+      "selected_filename": "frame_000114.png",
+      "sample_index": "341",
+      "timestamp_seconds": "82.0",
+      "source_frame_index": "2458"
+    },
+    {
+      "selection_order": "115",
+      "selected_filename": "frame_000115.png",
+      "sample_index": "345",
+      "timestamp_seconds": "82.8",
+      "source_frame_index": "2482"
+    },
+    {
+      "selection_order": "116",
+      "selected_filename": "frame_000116.png",
+      "sample_index": "349",
+      "timestamp_seconds": "83.6",
+      "source_frame_index": "2505"
+    },
+    {
+      "selection_order": "117",
+      "selected_filename": "frame_000117.png",
+      "sample_index": "353",
+      "timestamp_seconds": "84.4",
+      "source_frame_index": "2529"
+    },
+    {
+      "selection_order": "118",
+      "selected_filename": "frame_000118.png",
+      "sample_index": "357",
+      "timestamp_seconds": "85.2",
+      "source_frame_index": "2553"
+    },
+    {
+      "selection_order": "119",
+      "selected_filename": "frame_000119.png",
+      "sample_index": "361",
+      "timestamp_seconds": "86.0",
+      "source_frame_index": "2577"
+    },
+    {
+      "selection_order": "120",
+      "selected_filename": "frame_000120.png",
+      "sample_index": "365",
+      "timestamp_seconds": "86.8",
+      "source_frame_index": "2601"
+    },
+    {
+      "selection_order": "121",
+      "selected_filename": "frame_000121.png",
+      "sample_index": "369",
+      "timestamp_seconds": "87.6",
+      "source_frame_index": "2625"
+    },
+    {
+      "selection_order": "122",
+      "selected_filename": "frame_000122.png",
+      "sample_index": "374",
+      "timestamp_seconds": "88.6",
+      "source_frame_index": "2655"
+    },
+    {
+      "selection_order": "123",
+      "selected_filename": "frame_000123.png",
+      "sample_index": "378",
+      "timestamp_seconds": "89.4",
+      "source_frame_index": "2679"
+    },
+    {
+      "selection_order": "124",
+      "selected_filename": "frame_000124.png",
+      "sample_index": "382",
+      "timestamp_seconds": "90.2",
+      "source_frame_index": "2703"
+    },
+    {
+      "selection_order": "125",
+      "selected_filename": "frame_000125.png",
+      "sample_index": "386",
+      "timestamp_seconds": "91.0",
+      "source_frame_index": "2727"
+    },
+    {
+      "selection_order": "126",
+      "selected_filename": "frame_000126.png",
+      "sample_index": "390",
+      "timestamp_seconds": "91.8",
+      "source_frame_index": "2751"
+    },
+    {
+      "selection_order": "127",
+      "selected_filename": "frame_000127.png",
+      "sample_index": "393",
+      "timestamp_seconds": "92.4",
+      "source_frame_index": "2769"
+    },
+    {
+      "selection_order": "128",
+      "selected_filename": "frame_000128.png",
+      "sample_index": "396",
+      "timestamp_seconds": "93.0",
+      "source_frame_index": "2787"
+    },
+    {
+      "selection_order": "129",
+      "selected_filename": "frame_000129.png",
+      "sample_index": "399",
+      "timestamp_seconds": "93.6",
+      "source_frame_index": "2805"
+    },
+    {
+      "selection_order": "130",
+      "selected_filename": "frame_000130.png",
+      "sample_index": "402",
+      "timestamp_seconds": "94.2",
+      "source_frame_index": "2823"
+    },
+    {
+      "selection_order": "131",
+      "selected_filename": "frame_000131.png",
+      "sample_index": "405",
+      "timestamp_seconds": "94.8",
+      "source_frame_index": "2841"
+    },
+    {
+      "selection_order": "132",
+      "selected_filename": "frame_000132.png",
+      "sample_index": "408",
+      "timestamp_seconds": "95.4",
+      "source_frame_index": "2859"
+    },
+    {
+      "selection_order": "133",
+      "selected_filename": "frame_000133.png",
+      "sample_index": "411",
+      "timestamp_seconds": "96.0",
+      "source_frame_index": "2877"
+    },
+    {
+      "selection_order": "134",
+      "selected_filename": "frame_000134.png",
+      "sample_index": "414",
+      "timestamp_seconds": "96.6",
+      "source_frame_index": "2895"
+    },
+    {
+      "selection_order": "135",
+      "selected_filename": "frame_000135.png",
+      "sample_index": "417",
+      "timestamp_seconds": "97.2",
+      "source_frame_index": "2913"
+    },
+    {
+      "selection_order": "136",
+      "selected_filename": "frame_000136.png",
+      "sample_index": "420",
+      "timestamp_seconds": "97.8",
+      "source_frame_index": "2931"
+    },
+    {
+      "selection_order": "137",
+      "selected_filename": "frame_000137.png",
+      "sample_index": "423",
+      "timestamp_seconds": "98.4",
+      "source_frame_index": "2949"
+    },
+    {
+      "selection_order": "138",
+      "selected_filename": "frame_000138.png",
+      "sample_index": "427",
+      "timestamp_seconds": "99.2",
+      "source_frame_index": "2973"
+    },
+    {
+      "selection_order": "139",
+      "selected_filename": "frame_000139.png",
+      "sample_index": "431",
+      "timestamp_seconds": "100.0",
+      "source_frame_index": "2997"
+    },
+    {
+      "selection_order": "140",
+      "selected_filename": "frame_000140.png",
+      "sample_index": "435",
+      "timestamp_seconds": "100.8",
+      "source_frame_index": "3021"
+    },
+    {
+      "selection_order": "141",
+      "selected_filename": "frame_000141.png",
+      "sample_index": "439",
+      "timestamp_seconds": "101.6",
+      "source_frame_index": "3045"
+    },
+    {
+      "selection_order": "142",
+      "selected_filename": "frame_000142.png",
+      "sample_index": "443",
+      "timestamp_seconds": "102.4",
+      "source_frame_index": "3069"
+    },
+    {
+      "selection_order": "143",
+      "selected_filename": "frame_000143.png",
+      "sample_index": "447",
+      "timestamp_seconds": "103.2",
+      "source_frame_index": "3093"
+    },
+    {
+      "selection_order": "144",
+      "selected_filename": "frame_000144.png",
+      "sample_index": "450",
+      "timestamp_seconds": "103.8",
+      "source_frame_index": "3111"
+    },
+    {
+      "selection_order": "145",
+      "selected_filename": "frame_000145.png",
+      "sample_index": "453",
+      "timestamp_seconds": "104.4",
+      "source_frame_index": "3129"
+    },
+    {
+      "selection_order": "146",
+      "selected_filename": "frame_000146.png",
+      "sample_index": "456",
+      "timestamp_seconds": "105.0",
+      "source_frame_index": "3147"
+    },
+    {
+      "selection_order": "147",
+      "selected_filename": "frame_000147.png",
+      "sample_index": "458",
+      "timestamp_seconds": "105.4",
+      "source_frame_index": "3159"
+    },
+    {
+      "selection_order": "148",
+      "selected_filename": "frame_000148.png",
+      "sample_index": "460",
+      "timestamp_seconds": "105.8",
+      "source_frame_index": "3171"
+    },
+    {
+      "selection_order": "149",
+      "selected_filename": "frame_000149.png",
+      "sample_index": "462",
+      "timestamp_seconds": "106.2",
+      "source_frame_index": "3183"
+    },
+    {
+      "selection_order": "150",
+      "selected_filename": "frame_000150.png",
+      "sample_index": "464",
+      "timestamp_seconds": "106.6",
+      "source_frame_index": "3195"
+    },
+    {
+      "selection_order": "151",
+      "selected_filename": "frame_000151.png",
+      "sample_index": "466",
+      "timestamp_seconds": "107.0",
+      "source_frame_index": "3207"
+    },
+    {
+      "selection_order": "152",
+      "selected_filename": "frame_000152.png",
+      "sample_index": "468",
+      "timestamp_seconds": "107.4",
+      "source_frame_index": "3219"
+    },
+    {
+      "selection_order": "153",
+      "selected_filename": "frame_000153.png",
+      "sample_index": "470",
+      "timestamp_seconds": "107.8",
+      "source_frame_index": "3231"
+    },
+    {
+      "selection_order": "154",
+      "selected_filename": "frame_000154.png",
+      "sample_index": "472",
+      "timestamp_seconds": "108.2",
+      "source_frame_index": "3243"
+    },
+    {
+      "selection_order": "155",
+      "selected_filename": "frame_000155.png",
+      "sample_index": "474",
+      "timestamp_seconds": "108.6",
+      "source_frame_index": "3255"
+    },
+    {
+      "selection_order": "156",
+      "selected_filename": "frame_000156.png",
+      "sample_index": "477",
+      "timestamp_seconds": "109.2",
+      "source_frame_index": "3273"
+    },
+    {
+      "selection_order": "157",
+      "selected_filename": "frame_000157.png",
+      "sample_index": "480",
+      "timestamp_seconds": "109.8",
+      "source_frame_index": "3291"
+    },
+    {
+      "selection_order": "158",
+      "selected_filename": "frame_000158.png",
+      "sample_index": "483",
+      "timestamp_seconds": "110.4",
+      "source_frame_index": "3309"
+    },
+    {
+      "selection_order": "159",
+      "selected_filename": "frame_000159.png",
+      "sample_index": "486",
+      "timestamp_seconds": "111.0",
+      "source_frame_index": "3327"
+    },
+    {
+      "selection_order": "160",
+      "selected_filename": "frame_000160.png",
+      "sample_index": "489",
+      "timestamp_seconds": "111.6",
+      "source_frame_index": "3345"
+    },
+    {
+      "selection_order": "161",
+      "selected_filename": "frame_000161.png",
+      "sample_index": "492",
+      "timestamp_seconds": "112.2",
+      "source_frame_index": "3363"
+    },
+    {
+      "selection_order": "162",
+      "selected_filename": "frame_000162.png",
+      "sample_index": "495",
+      "timestamp_seconds": "112.8",
+      "source_frame_index": "3381"
+    },
+    {
+      "selection_order": "163",
+      "selected_filename": "frame_000163.png",
+      "sample_index": "498",
+      "timestamp_seconds": "113.4",
+      "source_frame_index": "3399"
+    },
+    {
+      "selection_order": "164",
+      "selected_filename": "frame_000164.png",
+      "sample_index": "501",
+      "timestamp_seconds": "114.0",
+      "source_frame_index": "3417"
+    },
+    {
+      "selection_order": "165",
+      "selected_filename": "frame_000165.png",
+      "sample_index": "504",
+      "timestamp_seconds": "114.6",
+      "source_frame_index": "3435"
+    },
+    {
+      "selection_order": "166",
+      "selected_filename": "frame_000166.png",
+      "sample_index": "507",
+      "timestamp_seconds": "115.2",
+      "source_frame_index": "3453"
+    },
+    {
+      "selection_order": "167",
+      "selected_filename": "frame_000167.png",
+      "sample_index": "510",
+      "timestamp_seconds": "115.8",
+      "source_frame_index": "3471"
+    },
+    {
+      "selection_order": "168",
+      "selected_filename": "frame_000168.png",
+      "sample_index": "513",
+      "timestamp_seconds": "116.4",
+      "source_frame_index": "3489"
+    },
+    {
+      "selection_order": "169",
+      "selected_filename": "frame_000169.png",
+      "sample_index": "516",
+      "timestamp_seconds": "117.0",
+      "source_frame_index": "3506"
+    },
+    {
+      "selection_order": "170",
+      "selected_filename": "frame_000170.png",
+      "sample_index": "519",
+      "timestamp_seconds": "117.6",
+      "source_frame_index": "3524"
+    },
+    {
+      "selection_order": "171",
+      "selected_filename": "frame_000171.png",
+      "sample_index": "522",
+      "timestamp_seconds": "118.2",
+      "source_frame_index": "3542"
+    },
+    {
+      "selection_order": "172",
+      "selected_filename": "frame_000172.png",
+      "sample_index": "525",
+      "timestamp_seconds": "118.8",
+      "source_frame_index": "3560"
+    },
+    {
+      "selection_order": "173",
+      "selected_filename": "frame_000173.png",
+      "sample_index": "528",
+      "timestamp_seconds": "119.4",
+      "source_frame_index": "3578"
+    },
+    {
+      "selection_order": "174",
+      "selected_filename": "frame_000174.png",
+      "sample_index": "531",
+      "timestamp_seconds": "120.0",
+      "source_frame_index": "3596"
+    },
+    {
+      "selection_order": "175",
+      "selected_filename": "frame_000175.png",
+      "sample_index": "534",
+      "timestamp_seconds": "120.6",
+      "source_frame_index": "3614"
+    },
+    {
+      "selection_order": "176",
+      "selected_filename": "frame_000176.png",
+      "sample_index": "537",
+      "timestamp_seconds": "121.2",
+      "source_frame_index": "3632"
+    },
+    {
+      "selection_order": "177",
+      "selected_filename": "frame_000177.png",
+      "sample_index": "540",
+      "timestamp_seconds": "121.8",
+      "source_frame_index": "3650"
+    },
+    {
+      "selection_order": "178",
+      "selected_filename": "frame_000178.png",
+      "sample_index": "543",
+      "timestamp_seconds": "122.4",
+      "source_frame_index": "3668"
+    },
+    {
+      "selection_order": "179",
+      "selected_filename": "frame_000179.png",
+      "sample_index": "546",
+      "timestamp_seconds": "123.0",
+      "source_frame_index": "3686"
+    },
+    {
+      "selection_order": "180",
+      "selected_filename": "frame_000180.png",
+      "sample_index": "549",
+      "timestamp_seconds": "123.6",
+      "source_frame_index": "3704"
+    },
+    {
+      "selection_order": "181",
+      "selected_filename": "frame_000181.png",
+      "sample_index": "553",
+      "timestamp_seconds": "124.4",
+      "source_frame_index": "3728"
+    },
+    {
+      "selection_order": "182",
+      "selected_filename": "frame_000182.png",
+      "sample_index": "556",
+      "timestamp_seconds": "125.0",
+      "source_frame_index": "3746"
+    },
+    {
+      "selection_order": "183",
+      "selected_filename": "frame_000183.png",
+      "sample_index": "558",
+      "timestamp_seconds": "125.4",
+      "source_frame_index": "3758"
+    },
+    {
+      "selection_order": "184",
+      "selected_filename": "frame_000184.png",
+      "sample_index": "560",
+      "timestamp_seconds": "125.8",
+      "source_frame_index": "3770"
+    },
+    {
+      "selection_order": "185",
+      "selected_filename": "frame_000185.png",
+      "sample_index": "562",
+      "timestamp_seconds": "126.2",
+      "source_frame_index": "3782"
+    },
+    {
+      "selection_order": "186",
+      "selected_filename": "frame_000186.png",
+      "sample_index": "564",
+      "timestamp_seconds": "126.6",
+      "source_frame_index": "3794"
+    },
+    {
+      "selection_order": "187",
+      "selected_filename": "frame_000187.png",
+      "sample_index": "566",
+      "timestamp_seconds": "127.0",
+      "source_frame_index": "3806"
+    },
+    {
+      "selection_order": "188",
+      "selected_filename": "frame_000188.png",
+      "sample_index": "568",
+      "timestamp_seconds": "127.4",
+      "source_frame_index": "3818"
+    },
+    {
+      "selection_order": "189",
+      "selected_filename": "frame_000189.png",
+      "sample_index": "570",
+      "timestamp_seconds": "127.8",
+      "source_frame_index": "3830"
+    },
+    {
+      "selection_order": "190",
+      "selected_filename": "frame_000190.png",
+      "sample_index": "572",
+      "timestamp_seconds": "128.2",
+      "source_frame_index": "3842"
+    },
+    {
+      "selection_order": "191",
+      "selected_filename": "frame_000191.png",
+      "sample_index": "575",
+      "timestamp_seconds": "128.8",
+      "source_frame_index": "3860"
+    },
+    {
+      "selection_order": "192",
+      "selected_filename": "frame_000192.png",
+      "sample_index": "579",
+      "timestamp_seconds": "129.6",
+      "source_frame_index": "3884"
+    },
+    {
+      "selection_order": "193",
+      "selected_filename": "frame_000193.png",
+      "sample_index": "583",
+      "timestamp_seconds": "130.4",
+      "source_frame_index": "3908"
+    },
+    {
+      "selection_order": "194",
+      "selected_filename": "frame_000194.png",
+      "sample_index": "585",
+      "timestamp_seconds": "130.8",
+      "source_frame_index": "3920"
+    },
+    {
+      "selection_order": "195",
+      "selected_filename": "frame_000195.png",
+      "sample_index": "588",
+      "timestamp_seconds": "131.4",
+      "source_frame_index": "3938"
+    },
+    {
+      "selection_order": "196",
+      "selected_filename": "frame_000196.png",
+      "sample_index": "599",
+      "timestamp_seconds": "133.6",
+      "source_frame_index": "4004"
+    },
+    {
+      "selection_order": "197",
+      "selected_filename": "frame_000197.png",
+      "sample_index": "603",
+      "timestamp_seconds": "134.4",
+      "source_frame_index": "4028"
+    },
+    {
+      "selection_order": "198",
+      "selected_filename": "frame_000198.png",
+      "sample_index": "607",
+      "timestamp_seconds": "135.2",
+      "source_frame_index": "4052"
+    },
+    {
+      "selection_order": "199",
+      "selected_filename": "frame_000199.png",
+      "sample_index": "610",
+      "timestamp_seconds": "135.8",
+      "source_frame_index": "4070"
+    },
+    {
+      "selection_order": "200",
+      "selected_filename": "frame_000200.png",
+      "sample_index": "613",
+      "timestamp_seconds": "136.4",
+      "source_frame_index": "4088"
+    },
+    {
+      "selection_order": "201",
+      "selected_filename": "frame_000201.png",
+      "sample_index": "616",
+      "timestamp_seconds": "137.0",
+      "source_frame_index": "4106"
+    },
+    {
+      "selection_order": "202",
+      "selected_filename": "frame_000202.png",
+      "sample_index": "618",
+      "timestamp_seconds": "137.4",
+      "source_frame_index": "4118"
+    },
+    {
+      "selection_order": "203",
+      "selected_filename": "frame_000203.png",
+      "sample_index": "620",
+      "timestamp_seconds": "137.8",
+      "source_frame_index": "4130"
+    },
+    {
+      "selection_order": "204",
+      "selected_filename": "frame_000204.png",
+      "sample_index": "622",
+      "timestamp_seconds": "138.2",
+      "source_frame_index": "4142"
+    },
+    {
+      "selection_order": "205",
+      "selected_filename": "frame_000205.png",
+      "sample_index": "625",
+      "timestamp_seconds": "138.8",
+      "source_frame_index": "4160"
+    },
+    {
+      "selection_order": "206",
+      "selected_filename": "frame_000206.png",
+      "sample_index": "628",
+      "timestamp_seconds": "139.4",
+      "source_frame_index": "4178"
+    },
+    {
+      "selection_order": "207",
+      "selected_filename": "frame_000207.png",
+      "sample_index": "632",
+      "timestamp_seconds": "140.2",
+      "source_frame_index": "4202"
+    },
+    {
+      "selection_order": "208",
+      "selected_filename": "frame_000208.png",
+      "sample_index": "636",
+      "timestamp_seconds": "141.0",
+      "source_frame_index": "4226"
+    },
+    {
+      "selection_order": "209",
+      "selected_filename": "frame_000209.png",
+      "sample_index": "640",
+      "timestamp_seconds": "141.8",
+      "source_frame_index": "4250"
+    },
+    {
+      "selection_order": "210",
+      "selected_filename": "frame_000210.png",
+      "sample_index": "644",
+      "timestamp_seconds": "142.6",
+      "source_frame_index": "4274"
+    },
+    {
+      "selection_order": "211",
+      "selected_filename": "frame_000211.png",
+      "sample_index": "648",
+      "timestamp_seconds": "143.4",
+      "source_frame_index": "4298"
+    },
+    {
+      "selection_order": "212",
+      "selected_filename": "frame_000212.png",
+      "sample_index": "652",
+      "timestamp_seconds": "144.2",
+      "source_frame_index": "4322"
+    },
+    {
+      "selection_order": "213",
+      "selected_filename": "frame_000213.png",
+      "sample_index": "657",
+      "timestamp_seconds": "145.2",
+      "source_frame_index": "4352"
+    },
+    {
+      "selection_order": "214",
+      "selected_filename": "frame_000214.png",
+      "sample_index": "662",
+      "timestamp_seconds": "146.2",
+      "source_frame_index": "4382"
+    },
+    {
+      "selection_order": "215",
+      "selected_filename": "frame_000215.png",
+      "sample_index": "666",
+      "timestamp_seconds": "147.0",
+      "source_frame_index": "4406"
+    },
+    {
+      "selection_order": "216",
+      "selected_filename": "frame_000216.png",
+      "sample_index": "670",
+      "timestamp_seconds": "147.8",
+      "source_frame_index": "4430"
+    },
+    {
+      "selection_order": "217",
+      "selected_filename": "frame_000217.png",
+      "sample_index": "675",
+      "timestamp_seconds": "148.8",
+      "source_frame_index": "4460"
+    },
+    {
+      "selection_order": "218",
+      "selected_filename": "frame_000218.png",
+      "sample_index": "678",
+      "timestamp_seconds": "149.4",
+      "source_frame_index": "4478"
+    },
+    {
+      "selection_order": "219",
+      "selected_filename": "frame_000219.png",
+      "sample_index": "681",
+      "timestamp_seconds": "150.0",
+      "source_frame_index": "4495"
+    },
+    {
+      "selection_order": "220",
+      "selected_filename": "frame_000220.png",
+      "sample_index": "684",
+      "timestamp_seconds": "150.6",
+      "source_frame_index": "4513"
+    },
+    {
+      "selection_order": "221",
+      "selected_filename": "frame_000221.png",
+      "sample_index": "686",
+      "timestamp_seconds": "151.0",
+      "source_frame_index": "4525"
+    },
+    {
+      "selection_order": "222",
+      "selected_filename": "frame_000222.png",
+      "sample_index": "691",
+      "timestamp_seconds": "152.0",
+      "source_frame_index": "4555"
+    },
+    {
+      "selection_order": "223",
+      "selected_filename": "frame_000223.png",
+      "sample_index": "693",
+      "timestamp_seconds": "152.4",
+      "source_frame_index": "4567"
+    },
+    {
+      "selection_order": "224",
+      "selected_filename": "frame_000224.png",
+      "sample_index": "695",
+      "timestamp_seconds": "152.8",
+      "source_frame_index": "4579"
+    },
+    {
+      "selection_order": "225",
+      "selected_filename": "frame_000225.png",
+      "sample_index": "697",
+      "timestamp_seconds": "153.2",
+      "source_frame_index": "4591"
+    },
+    {
+      "selection_order": "226",
+      "selected_filename": "frame_000226.png",
+      "sample_index": "699",
+      "timestamp_seconds": "153.6",
+      "source_frame_index": "4603"
+    },
+    {
+      "selection_order": "227",
+      "selected_filename": "frame_000227.png",
+      "sample_index": "702",
+      "timestamp_seconds": "154.2",
+      "source_frame_index": "4621"
+    },
+    {
+      "selection_order": "228",
+      "selected_filename": "frame_000228.png",
+      "sample_index": "705",
+      "timestamp_seconds": "154.8",
+      "source_frame_index": "4639"
+    },
+    {
+      "selection_order": "229",
+      "selected_filename": "frame_000229.png",
+      "sample_index": "709",
+      "timestamp_seconds": "155.6",
+      "source_frame_index": "4663"
+    },
+    {
+      "selection_order": "230",
+      "selected_filename": "frame_000230.png",
+      "sample_index": "712",
+      "timestamp_seconds": "156.2",
+      "source_frame_index": "4681"
+    },
+    {
+      "selection_order": "231",
+      "selected_filename": "frame_000231.png",
+      "sample_index": "714",
+      "timestamp_seconds": "156.6",
+      "source_frame_index": "4693"
+    },
+    {
+      "selection_order": "232",
+      "selected_filename": "frame_000232.png",
+      "sample_index": "716",
+      "timestamp_seconds": "157.0",
+      "source_frame_index": "4705"
+    },
+    {
+      "selection_order": "233",
+      "selected_filename": "frame_000233.png",
+      "sample_index": "718",
+      "timestamp_seconds": "157.4",
+      "source_frame_index": "4717"
+    },
+    {
+      "selection_order": "234",
+      "selected_filename": "frame_000234.png",
+      "sample_index": "720",
+      "timestamp_seconds": "157.8",
+      "source_frame_index": "4729"
+    },
+    {
+      "selection_order": "235",
+      "selected_filename": "frame_000235.png",
+      "sample_index": "722",
+      "timestamp_seconds": "158.2",
+      "source_frame_index": "4741"
+    },
+    {
+      "selection_order": "236",
+      "selected_filename": "frame_000236.png",
+      "sample_index": "726",
+      "timestamp_seconds": "159.0",
+      "source_frame_index": "4765"
+    },
+    {
+      "selection_order": "237",
+      "selected_filename": "frame_000237.png",
+      "sample_index": "729",
+      "timestamp_seconds": "159.6",
+      "source_frame_index": "4783"
+    },
+    {
+      "selection_order": "238",
+      "selected_filename": "frame_000238.png",
+      "sample_index": "732",
+      "timestamp_seconds": "160.2",
+      "source_frame_index": "4801"
+    },
+    {
+      "selection_order": "239",
+      "selected_filename": "frame_000239.png",
+      "sample_index": "735",
+      "timestamp_seconds": "160.8",
+      "source_frame_index": "4819"
+    },
+    {
+      "selection_order": "240",
+      "selected_filename": "frame_000240.png",
+      "sample_index": "738",
+      "timestamp_seconds": "161.4",
+      "source_frame_index": "4837"
+    },
+    {
+      "selection_order": "241",
+      "selected_filename": "frame_000241.png",
+      "sample_index": "742",
+      "timestamp_seconds": "162.2",
+      "source_frame_index": "4861"
+    },
+    {
+      "selection_order": "242",
+      "selected_filename": "frame_000242.png",
+      "sample_index": "746",
+      "timestamp_seconds": "163.0",
+      "source_frame_index": "4885"
+    },
+    {
+      "selection_order": "243",
+      "selected_filename": "frame_000243.png",
+      "sample_index": "751",
+      "timestamp_seconds": "164.0",
+      "source_frame_index": "4915"
+    },
+    {
+      "selection_order": "244",
+      "selected_filename": "frame_000244.png",
+      "sample_index": "756",
+      "timestamp_seconds": "165.0",
+      "source_frame_index": "4945"
+    },
+    {
+      "selection_order": "245",
+      "selected_filename": "frame_000245.png",
+      "sample_index": "760",
+      "timestamp_seconds": "165.8",
+      "source_frame_index": "4969"
+    },
+    {
+      "selection_order": "246",
+      "selected_filename": "frame_000246.png",
+      "sample_index": "763",
+      "timestamp_seconds": "166.4",
+      "source_frame_index": "4987"
+    },
+    {
+      "selection_order": "247",
+      "selected_filename": "frame_000247.png",
+      "sample_index": "766",
+      "timestamp_seconds": "167.0",
+      "source_frame_index": "5005"
+    },
+    {
+      "selection_order": "248",
+      "selected_filename": "frame_000248.png",
+      "sample_index": "768",
+      "timestamp_seconds": "167.4",
+      "source_frame_index": "5017"
+    },
+    {
+      "selection_order": "249",
+      "selected_filename": "frame_000249.png",
+      "sample_index": "770",
+      "timestamp_seconds": "167.8",
+      "source_frame_index": "5029"
+    },
+    {
+      "selection_order": "250",
+      "selected_filename": "frame_000250.png",
+      "sample_index": "772",
+      "timestamp_seconds": "168.2",
+      "source_frame_index": "5041"
+    },
+    {
+      "selection_order": "251",
+      "selected_filename": "frame_000251.png",
+      "sample_index": "774",
+      "timestamp_seconds": "168.6",
+      "source_frame_index": "5053"
+    },
+    {
+      "selection_order": "252",
+      "selected_filename": "frame_000252.png",
+      "sample_index": "776",
+      "timestamp_seconds": "169.0",
+      "source_frame_index": "5065"
+    },
+    {
+      "selection_order": "253",
+      "selected_filename": "frame_000253.png",
+      "sample_index": "779",
+      "timestamp_seconds": "169.6",
+      "source_frame_index": "5083"
+    },
+    {
+      "selection_order": "254",
+      "selected_filename": "frame_000254.png",
+      "sample_index": "782",
+      "timestamp_seconds": "170.2",
+      "source_frame_index": "5101"
+    },
+    {
+      "selection_order": "255",
+      "selected_filename": "frame_000255.png",
+      "sample_index": "785",
+      "timestamp_seconds": "170.8",
+      "source_frame_index": "5119"
+    },
+    {
+      "selection_order": "256",
+      "selected_filename": "frame_000256.png",
+      "sample_index": "789",
+      "timestamp_seconds": "171.6",
+      "source_frame_index": "5143"
+    },
+    {
+      "selection_order": "257",
+      "selected_filename": "frame_000257.png",
+      "sample_index": "793",
+      "timestamp_seconds": "172.4",
+      "source_frame_index": "5167"
+    },
+    {
+      "selection_order": "258",
+      "selected_filename": "frame_000258.png",
+      "sample_index": "798",
+      "timestamp_seconds": "173.4",
+      "source_frame_index": "5197"
+    },
+    {
+      "selection_order": "259",
+      "selected_filename": "frame_000259.png",
+      "sample_index": "802",
+      "timestamp_seconds": "174.2",
+      "source_frame_index": "5221"
+    },
+    {
+      "selection_order": "260",
+      "selected_filename": "frame_000260.png",
+      "sample_index": "807",
+      "timestamp_seconds": "175.2",
+      "source_frame_index": "5251"
+    },
+    {
+      "selection_order": "261",
+      "selected_filename": "frame_000261.png",
+      "sample_index": "812",
+      "timestamp_seconds": "176.2",
+      "source_frame_index": "5281"
+    },
+    {
+      "selection_order": "262",
+      "selected_filename": "frame_000262.png",
+      "sample_index": "815",
+      "timestamp_seconds": "176.8",
+      "source_frame_index": "5299"
+    },
+    {
+      "selection_order": "263",
+      "selected_filename": "frame_000263.png",
+      "sample_index": "818",
+      "timestamp_seconds": "177.4",
+      "source_frame_index": "5317"
+    },
+    {
+      "selection_order": "264",
+      "selected_filename": "frame_000264.png",
+      "sample_index": "824",
+      "timestamp_seconds": "178.6",
+      "source_frame_index": "5353"
+    },
+    {
+      "selection_order": "265",
+      "selected_filename": "frame_000265.png",
+      "sample_index": "828",
+      "timestamp_seconds": "179.4",
+      "source_frame_index": "5377"
+    },
+    {
+      "selection_order": "266",
+      "selected_filename": "frame_000266.png",
+      "sample_index": "830",
+      "timestamp_seconds": "179.8",
+      "source_frame_index": "5389"
+    },
+    {
+      "selection_order": "267",
+      "selected_filename": "frame_000267.png",
+      "sample_index": "832",
+      "timestamp_seconds": "180.2",
+      "source_frame_index": "5401"
+    },
+    {
+      "selection_order": "268",
+      "selected_filename": "frame_000268.png",
+      "sample_index": "835",
+      "timestamp_seconds": "180.8",
+      "source_frame_index": "5419"
+    },
+    {
+      "selection_order": "269",
+      "selected_filename": "frame_000269.png",
+      "sample_index": "838",
+      "timestamp_seconds": "181.4",
+      "source_frame_index": "5437"
+    },
+    {
+      "selection_order": "270",
+      "selected_filename": "frame_000270.png",
+      "sample_index": "842",
+      "timestamp_seconds": "182.2",
+      "source_frame_index": "5461"
+    },
+    {
+      "selection_order": "271",
+      "selected_filename": "frame_000271.png",
+      "sample_index": "846",
+      "timestamp_seconds": "183.0",
+      "source_frame_index": "5485"
+    },
+    {
+      "selection_order": "272",
+      "selected_filename": "frame_000272.png",
+      "sample_index": "849",
+      "timestamp_seconds": "183.6",
+      "source_frame_index": "5502"
+    },
+    {
+      "selection_order": "273",
+      "selected_filename": "frame_000273.png",
+      "sample_index": "852",
+      "timestamp_seconds": "184.2",
+      "source_frame_index": "5520"
+    },
+    {
+      "selection_order": "274",
+      "selected_filename": "frame_000274.png",
+      "sample_index": "855",
+      "timestamp_seconds": "184.8",
+      "source_frame_index": "5538"
+    },
+    {
+      "selection_order": "275",
+      "selected_filename": "frame_000275.png",
+      "sample_index": "858",
+      "timestamp_seconds": "185.4",
+      "source_frame_index": "5556"
+    },
+    {
+      "selection_order": "276",
+      "selected_filename": "frame_000276.png",
+      "sample_index": "861",
+      "timestamp_seconds": "186.0",
+      "source_frame_index": "5574"
+    },
+    {
+      "selection_order": "277",
+      "selected_filename": "frame_000277.png",
+      "sample_index": "864",
+      "timestamp_seconds": "186.6",
+      "source_frame_index": "5592"
+    },
+    {
+      "selection_order": "278",
+      "selected_filename": "frame_000278.png",
+      "sample_index": "867",
+      "timestamp_seconds": "187.2",
+      "source_frame_index": "5610"
+    },
+    {
+      "selection_order": "279",
+      "selected_filename": "frame_000279.png",
+      "sample_index": "870",
+      "timestamp_seconds": "187.8",
+      "source_frame_index": "5628"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "scene_id": "SceneA",
+    "description": "Educational building",
+    "input_frames": 537,
+    "valid_points": 18197290,
+    "cell_size": 0.05,
+    "model_unit_to_meter": 1.0,
+    "free_area_m2": 169.83,
+    "primary_area_m2": 163.0975,
+    "connected_fraction": 0.9603574162397691,
+    "point_count_evidence": "Recorded final geometry count; full dense geometry is outside this release.",
+    "coordinate_system": "Scene-local XY navigation plane; Z is the stored vertical coordinate. Scene origins are independent.",
+    "primary_points": 65239
+  },
+  {
+    "scene_id": "SceneB",
+    "description": "Narrow corridor",
+    "input_frames": 285,
+    "valid_points": 16466244,
+    "cell_size": 0.05,
+    "model_unit_to_meter": 1.0,
+    "free_area_m2": 80.135,
+    "primary_area_m2": 79.48,
+    "connected_fraction": 0.9918262931303425,
+    "point_count_evidence": "Recorded final geometry count; full dense geometry is outside this release.",
+    "coordinate_system": "Scene-local XY navigation plane; Z is the stored vertical coordinate. Scene origins are independent.",
+    "primary_points": 31792
+  },
+  {
+    "scene_id": "SceneC",
+    "description": "Multiroom dwelling",
+    "input_frames": 279,
+    "valid_points": 17509457,
+    "cell_size": 0.05,
+    "model_unit_to_meter": 1.0,
+    "free_area_m2": 63.7675,
+    "primary_area_m2": 63.105,
+    "connected_fraction": 0.9896106951033049,
+    "point_count_evidence": "Recorded final geometry count; full dense geometry is outside this release.",
+    "coordinate_system": "Scene-local XY navigation plane; Z is the stored vertical coordinate. Scene origins are independent.",
+    "primary_points": 25242
+  }
+]
